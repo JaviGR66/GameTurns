@@ -4,6 +4,8 @@ Es un juego por turnos en el que se juega contra una semi IA la cual va aprendie
 
 A lo largo del juego puedes encontrarte con grandes personajes del ámbito científico, artístico y tecnológico.
 
+____________________________________________________________________________________________________________________________________
+
 
 Java Game for Software Design.
 
